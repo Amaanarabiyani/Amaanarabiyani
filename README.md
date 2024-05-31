@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amaan Memon
+- 👋 Hi, I’m Amaan Memon
 - 👀 I’m interested in ...Application developing
 - 🌱 I’m currently learning ...Dart and flutter
 - 💞️ I’m looking to collaborate on ...
