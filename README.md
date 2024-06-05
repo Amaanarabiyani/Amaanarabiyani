@@ -1,3 +1,4 @@
+![logo](https://github.com/Amaanarabiyani/Amaanarabiyani/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Amaan Memon</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
