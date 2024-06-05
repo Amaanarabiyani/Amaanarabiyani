@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Dart, Flutter, and Firebase as Backend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
+- 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/Amaanarabiyani)
 
 - 📫 How to reach me **amaanmemon200@gmail.com**
 
