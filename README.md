@@ -23,7 +23,7 @@
 <a href="https://twitter.com/@amaanarabiyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@amaanarabiyani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amaanarabiyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amaanarabiyani" height="30" width="40" /></a>
 <a href="https://instagram.com/_.amaan.memon._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.amaan.memon._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@amaanmemon-cb1iw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@amaanmemon-cb1iw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/amaanmemon-cb1iw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amaanmemon-cb1iw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
