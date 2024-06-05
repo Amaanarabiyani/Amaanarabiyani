@@ -1,16 +1,8 @@
-![logo](https://github.com/Amaanarabiyani/Amaanarabiyani/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Amaan Memon</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-
-<img align = "right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaanarabiyani&label=Profile%20views&color=0e75b6&style=flat" alt="amaanarabiyani" /> </p>
 
 - 🌱 I’m currently learning **Dart, Flutter, and Firebase as Backend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amaanarabiyani](https://github.com/Amaanarabiyani)
+- 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
 
 - 📫 How to reach me **amaanmemon200@gmail.com**
 
