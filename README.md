@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaanarabiyani&label=Profile%20views&color=0e75b6&style=flat" alt="amaanarabiyani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@amaanarabiyani" target="blank"><img src="https://img.shields.io/twitter/follow/@amaanarabiyani?logo=twitter&style=for-the-badge" alt="@amaanarabiyani" /></a> </p>
+
 
 - 🔭 I’m currently working on **Personal Project**
 
