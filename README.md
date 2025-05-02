@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **Dart, Flutter, and Firebase**
+- 🌱 I’m currently learning **Dart, Flutter, Api Integration and Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
 
